@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 5 elements to &apos;github/src&apos;&#x0D;&#x0A;- Original project: &apos;aula03&apos;&#x0D;&#x0A;- Destination element: &apos;github/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     aula03.BoardComputer.java&#x0D;&#x0A;     aula03.PoolTiles.java&#x0D;&#x0A;     aula03.IMC.java&#x0D;&#x0A;     aula03.ElectionPoll.java&#x0D;&#x0A;     aula03.MediaNotas.java" description="Copy compilation units" destination="=github/src" element1="/src&lt;aula03{BoardComputer.java" element2="/src&lt;aula03{PoolTiles.java" element3="/src&lt;aula03{IMC.java" element4="/src&lt;aula03{ElectionPoll.java" element5="/src&lt;aula03{MediaNotas.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1743031511157" units="5" version="1.0"/>
+</session>
