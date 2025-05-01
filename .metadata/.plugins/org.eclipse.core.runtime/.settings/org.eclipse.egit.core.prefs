@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=C\:\\Users\\luis.romera\\Documents\\log_prog\\aula01\\.git;C\:\\Users\\luis.romera\\git\\repository\\.git;C\:\\Users\\luis.romera\\Documents\\log_prog\\aula02\\.git;C\:\\Users\\luis.romera\\Documents\\log_prog\\Aula4\\.git;C\:\\Users\\luis.romera\\Documents\\log_prog\\aula03\\.git;C\:\\Users\\luis.romera\\git\\LogicaProgramacao\\.git;
-GitRepositoriesView.GitDirectories.relative=aula01\\.git;C\:\\Users\\luis.romera\\git\\repository\\.git;aula02\\.git;Aula4\\.git;aula03\\.git;C\:\\Users\\luis.romera\\git\\LogicaProgramacao\\.git;
+GitRepositoriesView.GitDirectories=C\:\\Users\\luis.romera\\Documents\\log_prog\\aula01\\.git;C\:\\Users\\luis.romera\\git\\repository\\.git;C\:\\Users\\luis.romera\\Documents\\log_prog\\.git;C\:\\Users\\luis.romera\\Documents\\log_prog\\aula02\\.git;C\:\\Users\\luis.romera\\Documents\\log_prog\\Aula4\\.git;C\:\\Users\\luis.romera\\Documents\\log_prog\\aula03\\.git;C\:\\Users\\luis.romera\\git\\LogicaProgramacao\\.git;
+GitRepositoriesView.GitDirectories.relative=aula01\\.git;C\:\\Users\\luis.romera\\git\\repository\\.git;.git;aula02\\.git;Aula4\\.git;aula03\\.git;C\:\\Users\\luis.romera\\git\\LogicaProgramacao\\.git;
 core_ssh_default_agent=\\\\.\\pageant
 eclipse.preferences.version=1
